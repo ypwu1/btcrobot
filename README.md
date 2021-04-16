@@ -23,7 +23,7 @@ https://raw.githubusercontent.com/philsong/btcrobot/master/static/images/demo/ha
 
 ### Donations
 
-Donations help me to keep working on btcrobot and keep it free and open source, without having to worry about income. Any amount is really helpful! Thank you so much.
+Donations help laalalal me to keep working on btcrobot and keep it free and open source, without having to worry about income. Any amount is really helpful! Thank you so much.
 
 The btcrobot donation Bitcoin address is **1NDnnWCUu926z4wxA3sNBGYWNQD3mKyes8**
 
